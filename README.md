@@ -2,7 +2,7 @@
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-blue?style=flat-square)](https://workers.cloudflare.com/)
 
-这是一个简单高效的 **Cloudflare Workers** 项目，用于自动化管理自定义 CDN 入口。
+这是一个简单高效的 **Cloudflare Workers** 项目，将别人的CDN IP汇聚制作你自己的专属CDN，比如制作你自己的 CF 优选域名。
 
 ## 项目介绍
 
